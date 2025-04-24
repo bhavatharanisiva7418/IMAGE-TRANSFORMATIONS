@@ -9,19 +9,19 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the required libraries and images for the experiment
 
 ### Step2:
-<br>
+Translate the image using wrapAffine and the same can be used for Shearing the image
 
 ### Step3:
-<br>
+Use cv2.resize() to scale the image
 
 ### Step4:
-<br>
+use cv2.flip(img,2) to get the reflected image
 
 ### Step5:
-<br>
+Crop the image by using slicing
 
 ## Program:
 ## Developed By:BHAVATHARANI S
@@ -103,7 +103,8 @@ plt.axis('off')
 ![image](https://github.com/user-attachments/assets/ac73281d-95f9-44c0-9e41-bd29ede8c954)
 
 ### iii)Image shearing
-![image](https://github.com/user-attachments/assets/79ccd93c-9b07-46c0-bc75-70a268eb6c12)
+![image](https://github.com/user-attachments/assets/5555224a-005d-440b-84cf-9b2a00e90dfc)
+
 
 ### iv)Image Reflection
 
@@ -115,6 +116,7 @@ plt.axis('off')
 
 ### vi)Image Cropping
 
+![Uploading image.png…]()
 
 ## Result: 
 
